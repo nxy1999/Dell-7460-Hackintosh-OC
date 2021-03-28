@@ -1,4 +1,4 @@
-# Dell-7460-Hackintosh-OC
+# Dell-7460-7560-Hackintosh-OC
 
 EFI使用有问题？请参考这篇文档[黑苹果安装指北手册](https://howiehye.top/post/9ff9620/)
 
